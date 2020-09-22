@@ -1,0 +1,31 @@
+#ignore thumbnails created by windiws
+Thumbs.db
+#ignore files build by Visual Studio
+*.obj
+*.exe
+*.html
+*.exp
+*.pdb
+*.dll
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.htm
+*.zip
+*.txt
+[Db]ebug*/
+*.lib
+*.sbr
+[Ll]ib/
+[Rr]elease
